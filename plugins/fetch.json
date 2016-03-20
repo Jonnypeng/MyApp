@@ -1,0 +1,23 @@
+{
+    "cordova-plugin-device": {
+        "source": {
+            "type": "git",
+            "url": "git://git.apache.org/cordova-plugin-device.git",
+            "subdir": "."
+        }
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/apache/cordova-plugin-network-information.git",
+            "subdir": "."
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/apache/cordova-plugin-whitelist.git",
+            "subdir": "."
+        }
+    }
+}
